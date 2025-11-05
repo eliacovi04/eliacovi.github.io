@@ -1,0 +1,25 @@
+Requisiti sito RCIC:
+
+OK Una pagina home e due pagine extra
+OK Almeno un elemento di una pagina deve avere uno stile ridefinito rispetto al file CSS (utilizzando l'attributo style applicato a un elemento).
+OK Tutti gli URL alle pagine e agli oggetti interni devono essere relativi.
+OK Immagine ospitata dal sito stesso
+OK Una prelevata dal web tramite un ULR assoluto
+OK Immagini diverse tra loro
+OK Ogni pagnina deve contenere uno script Javascript.
+OK E' necessario scrivere autonomamente tutti i file HTML e CSS
+
+CAMBI:
+mkhitaryan-oliveira 17
+zalewski-spinazzola 67
+zaniolo-veretout
+karsdorp-vina 89
+abraham-shomurodov
+
+til-toornstra 59
+trauner-linssen 74
+nelson-pedersen
+malacia-walemark 88
+kokcu-jahanbakhsh
+
+Gli italiani vengono poi inseriti nel Gruppo C insieme agli ucraini dello Zorja, ai bulgari del CSKA Sofia e ai norvegesi del Bodø/Glimt, classificandosi al primo posto con 13 punti conquistati, frutto di quattro vittorie, un pareggio ed una sconfitta. Agli ottavi di finale vengono sorteggiati gli olandesi del Vitesse, battuti 1-0 in Olanda prima dell'1-1 al ritorno all'Olimpico. Nei quarti di finale torna il confronto con i norvegesi del Bodø/Glimt, i quali vincono l'andata all'Aspmyra Stadion per 2-1, ma nella gara di ritorno i capitolini si impongono per 4-0 all'Olimpico. La semifinale viene disputata contro il Leicester City: il match di andata termina con un 1-1 in territorio inglese, mentre all'Olimpico la Roma vince 1-0 grazie al colpo di testa di Abraham direttamente da calcio d'angolo, qualificandosi per la finale.
